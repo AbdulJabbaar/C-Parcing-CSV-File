@@ -1,0 +1,13 @@
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\bin\Debug\netcoreapp3.1\Parsing_CSV_File.exe
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\bin\Debug\netcoreapp3.1\Parsing_CSV_File.deps.json
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\bin\Debug\netcoreapp3.1\Parsing_CSV_File.runtimeconfig.json
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\bin\Debug\netcoreapp3.1\Parsing_CSV_File.runtimeconfig.dev.json
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\bin\Debug\netcoreapp3.1\Parsing_CSV_File.dll
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\bin\Debug\netcoreapp3.1\Parsing_CSV_File.pdb
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.csprojAssemblyReference.cache
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.AssemblyInfoInputs.cache
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.AssemblyInfo.cs
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.csproj.CoreCompileInputs.cache
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.dll
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.pdb
+E:\Training\C#\Linq\ParsingCSVFile\Parsing_CSV_File\obj\Debug\netcoreapp3.1\Parsing_CSV_File.genruntimeconfig.cache
